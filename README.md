@@ -2,13 +2,13 @@
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-An interactive lab we prepared for NVIDIA's GPU Technology Conference 2018 that will walk you through the detection of accounting anomalies using deep autoencoder neural networks. The the lab content is based on Python, IPython Notebook, and PyTorch.
+Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks - A lab we prepared for the 2nd KDD'19 Workshop on Anomaly Detection in Finance that will walk you through the detection of interpretable accounting anomalies using adversarial autoencoder neural networks. The majority of the lab content is based on Jupyter Notebook, Python and PyTorch.
 
-The recording of our talk is available via NVIDIA's GTC On-Demand under the following [external link](https://on-demand-gtc.gputechconf.com/gtcnew/sessionview.php?sessionName=s8343-detection+of+financial+statement+fraud+using+deep+autoencoder+networks).
+The workshop details are available via the KDD'19 workshop webpage under the following [external link](https://sites.google.com/view/kdd-adf-2019).
 
 ## Running the Notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/deepAI/master?filepath=GTC_2018_Lab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/deepAI/blob/master/GTC_2018_CoLab.ipynb)
+< to be published > 
 
 ## Reference
 
