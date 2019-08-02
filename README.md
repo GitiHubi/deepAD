@@ -12,7 +12,7 @@ The workshop details are available via the KDD'19 workshop webpage under the fol
 
 ## Reference
 
-![Autoencoder](https://raw.githubusercontent.com/GitiHubi/deepAI/master/images/autoencoder.png)
+![Autoencoder](https://raw.githubusercontent.com/GitiHubi/deepAD/master/images/architecture.png)
 
 The lab is inspired by our work **"Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks"** by Marco Schreyer, Timur Sattarov, Christian Schulze, Bernd Reimer and Damian Borth.
 
