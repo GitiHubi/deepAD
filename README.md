@@ -16,7 +16,7 @@ The workshop details are available via the KDD'19 workshop webpage under the fol
 
 The lab is inspired by our work **"Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks"** by Marco Schreyer, Timur Sattarov, Christian Schulze, Bernd Reimer and Damian Borth.
 
-The publication is available via arXiv under the following link: https://arxiv.org/abs/1908.00734 (https://arxiv.org/abs/1908.00734)
+The publication is available via arXiv under the following link: https://arxiv.org/abs/1908.00734 .
 
 ## Questions?
 
