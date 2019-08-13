@@ -8,7 +8,7 @@ The workshop details are available via the KDD'19 workshop webpage under the fol
 
 ## Running the Notebook
 
-< to be published > 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/deepAI/blob/master/KDD_2019_Lab.ipynb)
 
 ## Reference
 
